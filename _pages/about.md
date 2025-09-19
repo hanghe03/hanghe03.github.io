@@ -16,15 +16,15 @@ Preprints
 ======
 - **RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use**
 
-Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_ [[Paper](https://arxiv.org/abs/2509.06980)]
+  Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_  [[Paper](https://arxiv.org/abs/2509.06980)]
 
 - **Promoting Efficient Reasoning with Verifiable Stepwise Reward**
 
-Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_[[Paper](https://arxiv.org/abs/2508.10293)]
+  Chuhuai Yue, _Chengqi Dong, Yinan Gao, **Hang He**, Jiajun Chai, Guojun Yin, Wei Lin_ [[Paper](https://arxiv.org/abs/2508.10293)]
 
 - **Automated detection of atomicity violations in large-scale systems**
 
-**Hang He**, Yixing Luo, _Chengcheng Wan, Ting Su, Haiying Sun, Geguang Pu_[[Paper](https://arxiv.org/abs/2504.00521)]
+  **Hang He**, Yixing Luo, _Chengcheng Wan, Ting Su, Haiying Sun, Geguang Pu_[[Paper](https://arxiv.org/abs/2504.00521)]
 
 Award
 ======
