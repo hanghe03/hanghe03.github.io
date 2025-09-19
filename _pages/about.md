@@ -24,7 +24,7 @@ Preprints
 
 - **Automated detection of atomicity violations in large-scale systems**
 
-  **Hang He**, Yixing Luo, _Chengcheng Wan, Ting Su, Haiying Sun, Geguang Pu_[[Paper](https://arxiv.org/abs/2504.00521)]
+  **Hang He**, Yixing Luo, _Chengcheng Wan, Ting Su, Haiying Sun, Geguang Pu_ [[Paper](https://arxiv.org/abs/2504.00521)]
 
 Award
 ======
