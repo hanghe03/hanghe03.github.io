@@ -14,7 +14,8 @@ My research interest includes AI Agents, Reinforcement Learning, Multimodal Larg
 
 Preprints
 ======
-1.**RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use**
+1. **RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use**
+
 Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_ [Paper](https://arxiv.org/abs/2509.06980)
 
 Award
