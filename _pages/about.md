@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from [East China Normal University](https://www.ecnu.edu.cn/)(2024-), co-advised by Prof. [Chengcheng Wan](https://chengcheng-wan.github.io/) and Prof. [Ting Su](https://tingsu.github.io/). My undergraduate studies were undertaken at [China University of Petroleum, Beijing](https://www.cup.edu.cn/) (2020-2024).
+I'm a second year graduate student from [East China Normal University](https://www.ecnu.edu.cn/) (2024-), co-advised by Prof. [Chengcheng Wan](https://chengcheng-wan.github.io/) and Prof. [Ting Su](https://tingsu.github.io/). My undergraduate studies were undertaken at [China University of Petroleum, Beijing](https://www.cup.edu.cn/) (2020-2024).
 
 My research interest includes AI Agents, Reinforcement Learning, Multimodal Large Model, Agentic Learning and LLM4SE.
 
