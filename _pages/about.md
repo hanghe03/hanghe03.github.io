@@ -12,15 +12,18 @@ I'm a second year graduate student from [East China Normal University](https://w
 My research interest includes AI Agents, Reinforcement Learning, Multimodal Large Model, Agentic Learning and LLM4SE.
 
 
+Preprints
+======
+1.**RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use**
+Jiajun Chai, _Guojun Yin, Zekun Xu, Chuhuai Yue, Yi Jia, Siyu Xia, Xiaohan Wang, Jiwen Jiang, Xiaoguang Li, Chengqi Dong, **Hang He**, Wei Lin_ [Paper](https://arxiv.org/abs/2509.06980)
 
 Award
 ======
-1. National Scholarship, 2022.（国家奖学金）
-2. Outstanding Graduate Award, Beijing, 2024. (北京市优秀毕业生）
+1. National Scholarship, 2022. (国家奖学金)
+2. Outstanding Graduate Award, Beijing, 2024. (北京市优秀毕业生)
 
 
-Getting started
-======
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
