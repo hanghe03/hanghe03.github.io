@@ -30,3 +30,4 @@ Award
 ======
 1. National Scholarship, 2022. (国家奖学金)
 2. Outstanding Graduate Award, Beijing, 2024. (北京市优秀毕业生)
+3. Sinopec Talent Scholarship, 2021.
