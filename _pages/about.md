@@ -26,6 +26,10 @@ Preprints
 
   **Hang He**, Yixing Luo, _Chengcheng Wan, Ting Su, Haiying Sun, Geguang Pu_ [[Paper](https://arxiv.org/abs/2504.00521)]
 
+Internship
+======
+**Meituan** **美团搜推Agentic System X（AsX）团队** **强化学习/多模态后训练方向**
+
 Award
 ======
 1. National Scholarship, 2022. (国家奖学金)
