@@ -28,7 +28,10 @@ Preprints
 
 Internship
 ======
-**Meituan** **美团搜推Agentic System X（AsX）团队** **强化学习/多模态后训练方向**
+**Meituan（美团）** 
+**Search and Recommendation Platform Department（搜索和推荐平台部）** Agentic System X (AsX) Team
+Reinforcement Learning/Multimodal Post-training/Multimodal Retrieval
+advised by [Chuhuai Yue](https://scholar.google.com/citations?user=SViqq9IAAAAJ&hl=en), [Jiajun Chai](https://scholar.google.com/citations?user=yDdfap0AAAAJ&hl=en)_, [Guojun Yin](https://gjyin.github.io/)
 
 Award
 ======
