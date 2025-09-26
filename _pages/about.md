@@ -34,7 +34,7 @@ Internship
 
 Reinforcement Learning/Multimodal Post-training/Multimodal Retrieval
 
-advised by [Chuhuai Yue](https://scholar.google.com/citations?user=SViqq9IAAAAJ&hl=en), [Jiajun Chai](https://scholar.google.com/citations?user=yDdfap0AAAAJ&hl=en)_, [Guojun Yin](https://gjyin.github.io/)
+advised by [Chuhuai Yue](https://scholar.google.com/citations?user=SViqq9IAAAAJ&hl=en), [Jiajun Chai](https://scholar.google.com/citations?user=yDdfap0AAAAJ&hl=en), [Guojun Yin](https://gjyin.github.io/)
 
 Award
 ======
